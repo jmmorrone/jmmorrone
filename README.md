@@ -1,6 +1,6 @@
 ### ¡Hola!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/grimfandango.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/jmmorrone/jmmorrone/master/grimfandango.gif" />
 
 ## My name is Juan Martin Morrone
 
