@@ -20,6 +20,6 @@
 - Cat lover :cat:
 - Avid PC gamer :joystick:
 
-## Where you can find me?
+## Where can you find me?
 
 - [LinkedIn](https://www.linkedin.com/in/juanmmorrone/)
