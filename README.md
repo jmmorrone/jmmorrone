@@ -1,16 +1,25 @@
-### Hi there 👋
+### ¡Hola!
 
-<!--
-**jmmorrone/jmmorrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/grimfandango.gif" />
 
-Here are some ideas to get you started:
+## My name is Juan Martin Morrone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a backend software engineer, focused on Node.js
+- Started my career in 2013
+- Some other technologies I use(d): 
+  * Java
+  * MongoDB
+  * MySQL
+  * AWS (most of the classics, such as SQS, EC2 and SNS)
+  * Redis
+
+## A few personal details
+- Argentinian :argentina:
+- Huge football fan :soccer:
+- Biking and hiking are two of the things I like the most
+- Cat lover :cat:
+- Avid PC gamer :joystick:
+
+## Where you can find me?
+
+- [LinkedIn](https://www.linkedin.com/in/juanmmorrone/)
