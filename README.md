@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/jmmorrone/jmmorrone/master/grimfandango.gif" />
 
-## My name is Juan Martin Morrone
+## My name is Juan Martin
 
 - I'm a backend software engineer, focused on Node.js
 - Started my career in 2013
